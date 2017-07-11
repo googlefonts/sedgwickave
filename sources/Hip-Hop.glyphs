@@ -50741,7 +50741,7 @@ interpolationWidth = 5;
 instanceInterpolations = {
 "4E44DDC3-06E7-48B7-B703-88785A848E58" = 1;
 };
-name = Text;
+name = Regular;
 },
 {
 customParameters = (
@@ -50756,7 +50756,7 @@ instanceInterpolations = {
 "AF926F6A-8B43-44FC-95BD-7483A33A85BE" = 1;
 };
 linkStyle = Regular;
-name = Display;
+name = Regular;
 }
 );
 kerning = {
