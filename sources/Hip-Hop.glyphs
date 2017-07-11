@@ -128,6 +128,40 @@ fontMaster = (
 {
 ascender = 1280;
 capHeight = 950;
+customParameters = (
+{
+name = typoAscender;
+value = 937;
+},
+{
+name = typoDescender;
+value = -312;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2555;
+},
+{
+name = winDescent;
+value = 551;
+},
+{
+name = hheaAscender;
+value = 937;
+},
+{
+name = hheaDescender;
+value = -312;
+},
+{
+name = hheaLineGap;
+value = 0;
+}
+);
 descender = -560;
 id = "4E44DDC3-06E7-48B7-B703-88785A848E58";
 weightValue = 400;
@@ -137,6 +171,40 @@ xHeight = 660;
 {
 ascender = 1280;
 capHeight = 950;
+customParameters = (
+{
+name = typoAscender;
+value = 937;
+},
+{
+name = typoDescender;
+value = -312;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2555;
+},
+{
+name = winDescent;
+value = 551;
+},
+{
+name = hheaAscender;
+value = 937;
+},
+{
+name = hheaDescender;
+value = -312;
+},
+{
+name = hheaLineGap;
+value = 0;
+}
+);
 descender = -560;
 id = "AF926F6A-8B43-44FC-95BD-7483A33A85BE";
 weightValue = 700;
