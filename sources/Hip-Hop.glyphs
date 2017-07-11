@@ -35673,34 +35673,6 @@ width = 317;
 unicode = 0020;
 },
 {
-glyphname = nonbreakingspace;
-layers = (
-{
-layerId = "4E44DDC3-06E7-48B7-B703-88785A848E58";
-width = 600;
-},
-{
-layerId = "AF926F6A-8B43-44FC-95BD-7483A33A85BE";
-width = 600;
-}
-);
-unicode = 00A0;
-},
-{
-glyphname = controlCR;
-layers = (
-{
-layerId = "4E44DDC3-06E7-48B7-B703-88785A848E58";
-width = 600;
-},
-{
-layerId = "AF926F6A-8B43-44FC-95BD-7483A33A85BE";
-width = 600;
-}
-);
-unicode = 000D;
-},
-{
 glyphname = .notdef;
 layers = (
 {
