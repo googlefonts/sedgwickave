@@ -33,7 +33,7 @@ value = 1;
 }
 );
 date = "2017-07-09 08:50:36 +0000";
-designer = "Pedro Vergani & Kevin Burke";
+designer = "Kevin Burke, Pedro Vergani";
 disablesNiceNames = 1;
 familyName = "Sedgwick Ave";
 featurePrefixes = (
