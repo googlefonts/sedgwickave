@@ -1,6 +1,6 @@
 {
-.appVersion = "983";
-copyright = "Copyright 2017 The Sedgwick Ave Project Authors (https://github.com/googlefonts/HipHopFont)";
+.appVersion = "1038";
+copyright = "Copyright 2017 The Sedgwick Ave Project Authors (https://github.com/googlefonts/sedgwickave)";
 customParameters = (
 {
 name = license;
@@ -34,7 +34,6 @@ value = 1;
 );
 date = "2017-07-09 08:50:36 +0000";
 designer = "Pedro Vergani & Kevin Burke";
-designerURL = "http://www.google.com/doodles";
 disablesNiceNames = 1;
 familyName = "Sedgwick Ave";
 featurePrefixes = (
@@ -203,7 +202,7 @@ value = 0;
 );
 descender = -560;
 id = "AF926F6A-8B43-44FC-95BD-7483A33A85BE";
-weightValue = 700;
+weightValue = 400;
 widthValue = 5;
 xHeight = 650;
 }
@@ -50710,12 +50709,11 @@ name = familyName;
 value = "Sedgwick Ave Display";
 }
 );
-interpolationWeight = 700;
+interpolationWeight = 400;
 interpolationWidth = 5;
 instanceInterpolations = {
-"AF926F6A-8B43-44FC-95BD-7483A33A85BE" = 1;
+"4E44DDC3-06E7-48B7-B703-88785A848E58" = 1;
 };
-linkStyle = Regular;
 name = Regular;
 }
 );
