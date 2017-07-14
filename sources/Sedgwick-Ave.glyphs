@@ -202,7 +202,7 @@ value = 0;
 );
 descender = -560;
 id = "AF926F6A-8B43-44FC-95BD-7483A33A85BE";
-weightValue = 400;
+weightValue = 700;
 widthValue = 5;
 xHeight = 650;
 }
@@ -50709,10 +50709,10 @@ name = familyName;
 value = "Sedgwick Ave Display";
 }
 );
-interpolationWeight = 400;
+interpolationWeight = 700;
 interpolationWidth = 5;
 instanceInterpolations = {
-"4E44DDC3-06E7-48B7-B703-88785A848E58" = 1;
+"AF926F6A-8B43-44FC-95BD-7483A33A85BE" = 1;
 };
 name = Regular;
 }
