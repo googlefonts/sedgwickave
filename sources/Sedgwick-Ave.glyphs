@@ -50692,7 +50692,7 @@ instances = (
 customParameters = (
 {
 name = familyName;
-value = "Sedgwick Ave Text";
+value = "Sedgwick Ave";
 }
 );
 interpolationWeight = 400;
